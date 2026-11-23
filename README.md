@@ -22,7 +22,6 @@ A campus complaint management website where students report issues and track the
 - FastAPI
 - Streamlit
 - MySQL
-- MySQL Connector/Python
 
 ## Run Locally
 
