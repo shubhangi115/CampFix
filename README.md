@@ -4,7 +4,7 @@ A campus complaint management website where students report issues and track the
 
 ## Demo
 
-> Run CampFix locally, then open [the website](http://localhost:8501) or [Swagger UI](http://127.0.0.1:8000/docs) to test the API.
+> Run CampFix locally, then open [the website](http://localhost:8501)
 
 ## Features
 
